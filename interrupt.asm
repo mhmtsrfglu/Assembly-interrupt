@@ -1,3 +1,6 @@
+;Author: Mehmet Serefoglu
+;Github-repo: https://github.com/mhmtsrfglu/Assembly-interrupt.git
+
 ;-------------------------------------------------------------------------------
 ; MSP430 Assembler Code Template for use with TI Code Composer Studio
 ;
